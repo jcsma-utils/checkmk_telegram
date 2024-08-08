@@ -22,8 +22,8 @@
 import os, re, sys, urllib, urllib2, codecs
 
 ### EDITAR AQUI ###
-telegram_bot_token = '1042604417:AAHt8wGA-dUO_WcQC_clOKYyCWKO57LBD5U'
-idchat = 254042373
+telegram_bot_token = <ADD TOKEN>
+idchat = <ADD ID>
 ####################
 # Define log file
 log_file = '/omd/sites/vpumonitor/var/log/checkmk_telegram.log'
